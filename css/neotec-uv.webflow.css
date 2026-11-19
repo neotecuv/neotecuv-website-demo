@@ -833,7 +833,6 @@ img {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen, Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
   font-size: 1rem;
   font-weight: 600;
-  transition: all .3s;
 }
 
 .uui-navbar07_link:hover {
@@ -4892,6 +4891,8 @@ img {
     display: block;
     position: static;
     overflow: hidden;
+    opacity: 0;
+    transition: opacity 0.25s ease;
   }
 
   .uui-navbar07_dropdown-list.w--open {
@@ -4900,6 +4901,7 @@ img {
     border-style: none;
     border-color: #0000;
     padding: 0;
+    opacity: 1;
   }
 
   .text-block {
