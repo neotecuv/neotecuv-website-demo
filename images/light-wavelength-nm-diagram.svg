@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 739.05 378">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: red;
+        fill-opacity: .22;
+      }
+
+      .st0, .st1, .st2, .st3, .st4 {
+        stroke: #000;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5 {
+        stroke-miterlimit: 8;
+      }
+
+      .st0, .st2, .st4 {
+        stroke-width: 3.33px;
+      }
+
+      .st6, .st2, .st3 {
+        fill: none;
+      }
+
+      .st1 {
+        fill: #dae3f3;
+        stroke-width: 2.67px;
+      }
+
+      .st7, .st8, .st9, .st10 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        stroke-width: 3px;
+      }
+
+      .st4 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st8 {
+        font-size: 19px;
+      }
+
+      .st8, .st9, .st10 {
+        font-family: Calibri, Calibri;
+      }
+
+      .st5 {
+        fill: url(#linear-gradient);
+        stroke: #2f528f;
+        stroke-width: 1.33px;
+      }
+
+      .st9 {
+        font-size: 21px;
+      }
+
+      .st11 {
+        clip-path: url(#clippath);
+      }
+
+      .st10 {
+        font-size: 24px;
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st6" x="-269.47" y="-251.35" width="1280" height="720"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="27.25" y1="185.03" x2="439.25" y2="185.03" gradientTransform="translate(0 -70)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c7d5ed" stop-opacity=".27"/>
+      <stop offset="0" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset="0" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".02" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".02" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".03" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".04" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".04" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".05" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".06" stop-color="#c6d4ec" stop-opacity=".27"/>
+      <stop offset=".06" stop-color="#c6d4ec" stop-opacity=".28"/>
+      <stop offset=".07" stop-color="#c5d4ec" stop-opacity=".28"/>
+      <stop offset=".07" stop-color="#c5d4ec" stop-opacity=".28"/>
+      <stop offset=".08" stop-color="#c5d4ec" stop-opacity=".28"/>
+      <stop offset=".09" stop-color="#c5d4ec" stop-opacity=".28"/>
+      <stop offset=".09" stop-color="#c5d4ec" stop-opacity=".28"/>
+      <stop offset=".1" stop-color="#c4d3ec" stop-opacity=".28"/>
+      <stop offset=".1" stop-color="#c4d3ec" stop-opacity=".28"/>
+      <stop offset=".11" stop-color="#c4d3ec" stop-opacity=".28"/>
+      <stop offset=".12" stop-color="#c4d3ec" stop-opacity=".28"/>
+      <stop offset=".12" stop-color="#c3d3eb" stop-opacity=".28"/>
+      <stop offset=".13" stop-color="#c3d3eb" stop-opacity=".28"/>
+      <stop offset=".13" stop-color="#c3d3eb" stop-opacity=".28"/>
+      <stop offset=".14" stop-color="#c2d2eb" stop-opacity=".28"/>
+      <stop offset=".15" stop-color="#c2d2eb" stop-opacity=".28"/>
+      <stop offset=".15" stop-color="#c2d2eb" stop-opacity=".28"/>
+      <stop offset=".16" stop-color="#c1d2eb" stop-opacity=".28"/>
+      <stop offset=".17" stop-color="#c1d2eb" stop-opacity=".28"/>
+      <stop offset=".17" stop-color="#c0d2ea" stop-opacity=".28"/>
+      <stop offset=".18" stop-color="#c0d1ea" stop-opacity=".28"/>
+      <stop offset=".18" stop-color="#c0d1ea" stop-opacity=".29"/>
+      <stop offset=".19" stop-color="#bfd1ea" stop-opacity=".29"/>
+      <stop offset=".2" stop-color="#bfd1ea" stop-opacity=".29"/>
+      <stop offset=".2" stop-color="#bed0ea" stop-opacity=".29"/>
+      <stop offset=".21" stop-color="#bed0ea" stop-opacity=".29"/>
+      <stop offset=".21" stop-color="#bdd0e9" stop-opacity=".29"/>
+      <stop offset=".22" stop-color="#bdd0e9" stop-opacity=".29"/>
+      <stop offset=".23" stop-color="#bccfe9" stop-opacity=".29"/>
+      <stop offset=".23" stop-color="#bccfe9" stop-opacity=".29"/>
+      <stop offset=".24" stop-color="#bbcfe9" stop-opacity=".29"/>
+      <stop offset=".25" stop-color="#bbcfe8" stop-opacity=".29"/>
+      <stop offset=".25" stop-color="#bacee8" stop-opacity=".29"/>
+      <stop offset=".26" stop-color="#bacee8" stop-opacity=".29"/>
+      <stop offset=".26" stop-color="#b9cee8" stop-opacity=".29"/>
+      <stop offset=".27" stop-color="#b8cee8" stop-opacity=".29"/>
+      <stop offset=".28" stop-color="#b8cde7" stop-opacity=".29"/>
+      <stop offset=".28" stop-color="#b7cde7" stop-opacity=".29"/>
+      <stop offset=".29" stop-color="#b7cde7" stop-opacity=".29"/>
+      <stop offset=".29" stop-color="#b6cce7" stop-opacity=".29"/>
+      <stop offset=".3" stop-color="#b5cce7" stop-opacity=".29"/>
+      <stop offset=".31" stop-color="#b5cce6" stop-opacity=".29"/>
+      <stop offset=".31" stop-color="#b4cbe6" stop-opacity=".3"/>
+      <stop offset=".32" stop-color="#b3cbe6" stop-opacity=".3"/>
+      <stop offset=".33" stop-color="#b3cbe6" stop-opacity=".3"/>
+      <stop offset=".33" stop-color="#b2cae5" stop-opacity=".3"/>
+      <stop offset=".34" stop-color="#b1cae5" stop-opacity=".3"/>
+      <stop offset=".34" stop-color="#b0cae5" stop-opacity=".3"/>
+      <stop offset=".35" stop-color="#b0c9e5" stop-opacity=".3"/>
+      <stop offset=".36" stop-color="#afc9e4" stop-opacity=".3"/>
+      <stop offset=".36" stop-color="#aec8e4" stop-opacity=".3"/>
+      <stop offset=".37" stop-color="#adc8e4" stop-opacity=".3"/>
+      <stop offset=".37" stop-color="#adc8e4" stop-opacity=".3"/>
+      <stop offset=".38" stop-color="#acc7e3" stop-opacity=".3"/>
+      <stop offset=".39" stop-color="#abc7e3" stop-opacity=".3"/>
+      <stop offset=".39" stop-color="#aac6e3" stop-opacity=".3"/>
+      <stop offset=".4" stop-color="#a9c6e3" stop-opacity=".3"/>
+      <stop offset=".4" stop-color="#a8c6e2" stop-opacity=".3"/>
+      <stop offset=".41" stop-color="#a8c5e2" stop-opacity=".3"/>
+      <stop offset=".42" stop-color="#a7c5e2" stop-opacity=".3"/>
+      <stop offset=".42" stop-color="#a6c4e1" stop-opacity=".3"/>
+      <stop offset=".43" stop-color="#a5c4e1" stop-opacity=".3"/>
+      <stop offset=".44" stop-color="#a4c3e1" stop-opacity=".3"/>
+      <stop offset=".44" stop-color="#a3c3e0" stop-opacity=".31"/>
+      <stop offset=".45" stop-color="#a2c3e0" stop-opacity=".31"/>
+      <stop offset=".45" stop-color="#a1c2e0" stop-opacity=".31"/>
+      <stop offset=".46" stop-color="#a0c2df" stop-opacity=".31"/>
+      <stop offset=".47" stop-color="#9fc1df" stop-opacity=".31"/>
+      <stop offset=".47" stop-color="#9ec1df" stop-opacity=".31"/>
+      <stop offset=".48" stop-color="#9dc0de" stop-opacity=".31"/>
+      <stop offset=".48" stop-color="#9cc0de" stop-opacity=".31"/>
+      <stop offset=".49" stop-color="#9bbfde" stop-opacity=".31"/>
+      <stop offset=".5" stop-color="#9abfdd" stop-opacity=".31"/>
+      <stop offset=".5" stop-color="#99bedd" stop-opacity=".31"/>
+      <stop offset=".51" stop-color="#98bedd" stop-opacity=".31"/>
+      <stop offset=".52" stop-color="#97bddc" stop-opacity=".31"/>
+      <stop offset=".52" stop-color="#96bddc" stop-opacity=".31"/>
+      <stop offset=".53" stop-color="#95bcdc" stop-opacity=".31"/>
+      <stop offset=".53" stop-color="#94bcdb" stop-opacity=".31"/>
+      <stop offset=".54" stop-color="#93bbdb" stop-opacity=".31"/>
+      <stop offset=".55" stop-color="#92bada" stop-opacity=".31"/>
+      <stop offset=".55" stop-color="#91bada" stop-opacity=".31"/>
+      <stop offset=".56" stop-color="#90b9da" stop-opacity=".31"/>
+      <stop offset=".56" stop-color="#8eb9d9" stop-opacity=".31"/>
+      <stop offset=".57" stop-color="#8db8d9" stop-opacity=".32"/>
+      <stop offset=".58" stop-color="#8cb8d9" stop-opacity=".32"/>
+      <stop offset=".58" stop-color="#8bb7d8" stop-opacity=".32"/>
+      <stop offset=".59" stop-color="#8ab6d8" stop-opacity=".32"/>
+      <stop offset=".6" stop-color="#89b6d7" stop-opacity=".32"/>
+      <stop offset=".6" stop-color="#87b5d7" stop-opacity=".32"/>
+      <stop offset=".61" stop-color="#86b5d7" stop-opacity=".32"/>
+      <stop offset=".61" stop-color="#85b4d6" stop-opacity=".32"/>
+      <stop offset=".62" stop-color="#84b3d6" stop-opacity=".32"/>
+      <stop offset=".63" stop-color="#82b3d5" stop-opacity=".32"/>
+      <stop offset=".63" stop-color="#81b2d5" stop-opacity=".32"/>
+      <stop offset=".64" stop-color="#80b2d4" stop-opacity=".32"/>
+      <stop offset=".64" stop-color="#7fb1d4" stop-opacity=".32"/>
+      <stop offset=".65" stop-color="#7db0d4" stop-opacity=".32"/>
+      <stop offset=".66" stop-color="#7cb0d3" stop-opacity=".32"/>
+      <stop offset=".66" stop-color="#7bafd3" stop-opacity=".32"/>
+      <stop offset=".67" stop-color="#79aed2" stop-opacity=".32"/>
+      <stop offset=".67" stop-color="#78aed2" stop-opacity=".32"/>
+      <stop offset=".68" stop-color="#77add1" stop-opacity=".32"/>
+      <stop offset=".69" stop-color="#75acd1" stop-opacity=".32"/>
+      <stop offset=".69" stop-color="#74acd0" stop-opacity=".32"/>
+      <stop offset=".7" stop-color="#73abd0" stop-opacity=".33"/>
+      <stop offset=".71" stop-color="#71aacf" stop-opacity=".33"/>
+      <stop offset=".71" stop-color="#70aacf" stop-opacity=".33"/>
+      <stop offset=".72" stop-color="#6ea9ce" stop-opacity=".33"/>
+      <stop offset=".72" stop-color="#6da8ce" stop-opacity=".33"/>
+      <stop offset=".73" stop-color="#6ca8cd" stop-opacity=".33"/>
+      <stop offset=".74" stop-color="#6aa7cd" stop-opacity=".33"/>
+      <stop offset=".74" stop-color="#69a6cc" stop-opacity=".33"/>
+      <stop offset=".75" stop-color="#67a5cc" stop-opacity=".33"/>
+      <stop offset=".75" stop-color="#66a5cb" stop-opacity=".33"/>
+      <stop offset=".76" stop-color="#64a4cb" stop-opacity=".33"/>
+      <stop offset=".77" stop-color="#63a3ca" stop-opacity=".33"/>
+      <stop offset=".77" stop-color="#61a3ca" stop-opacity=".33"/>
+      <stop offset=".78" stop-color="#60a2c9" stop-opacity=".33"/>
+      <stop offset=".79" stop-color="#5ea1c9" stop-opacity=".33"/>
+      <stop offset=".79" stop-color="#5da0c8" stop-opacity=".33"/>
+      <stop offset=".8" stop-color="#5b9fc8" stop-opacity=".33"/>
+      <stop offset=".8" stop-color="#5a9fc7" stop-opacity=".33"/>
+      <stop offset=".81" stop-color="#589ec7" stop-opacity=".33"/>
+      <stop offset=".82" stop-color="#579dc6" stop-opacity=".33"/>
+      <stop offset=".82" stop-color="#559cc6" stop-opacity=".34"/>
+      <stop offset=".83" stop-color="#539cc5" stop-opacity=".34"/>
+      <stop offset=".83" stop-color="#529bc5" stop-opacity=".34"/>
+      <stop offset=".84" stop-color="#509ac4" stop-opacity=".34"/>
+      <stop offset=".85" stop-color="#4e99c4" stop-opacity=".34"/>
+      <stop offset=".85" stop-color="#4d98c3" stop-opacity=".34"/>
+      <stop offset=".86" stop-color="#4b98c2" stop-opacity=".34"/>
+      <stop offset=".87" stop-color="#4a97c2" stop-opacity=".34"/>
+      <stop offset=".87" stop-color="#4896c1" stop-opacity=".34"/>
+      <stop offset=".88" stop-color="#4695c1" stop-opacity=".34"/>
+      <stop offset=".88" stop-color="#4594c0" stop-opacity=".34"/>
+      <stop offset=".89" stop-color="#4393c0" stop-opacity=".34"/>
+      <stop offset=".9" stop-color="#4193bf" stop-opacity=".34"/>
+      <stop offset=".9" stop-color="#3f92be" stop-opacity=".34"/>
+      <stop offset=".91" stop-color="#3e91be" stop-opacity=".34"/>
+      <stop offset=".91" stop-color="#3c90bd" stop-opacity=".34"/>
+      <stop offset=".92" stop-color="#3a8fbd" stop-opacity=".34"/>
+      <stop offset=".93" stop-color="#388ebc" stop-opacity=".34"/>
+      <stop offset=".93" stop-color="#378dbb" stop-opacity=".34"/>
+      <stop offset=".94" stop-color="#358dbb" stop-opacity=".34"/>
+      <stop offset=".94" stop-color="#338cba" stop-opacity=".34"/>
+      <stop offset=".95" stop-color="#318bba" stop-opacity=".35"/>
+      <stop offset=".96" stop-color="#2f8ab9" stop-opacity=".35"/>
+      <stop offset=".96" stop-color="#2e89b8" stop-opacity=".35"/>
+      <stop offset=".97" stop-color="#2c88b8" stop-opacity=".35"/>
+      <stop offset=".98" stop-color="#2a87b7" stop-opacity=".35"/>
+      <stop offset=".98" stop-color="#2886b6" stop-opacity=".35"/>
+      <stop offset=".99" stop-color="#2685b6" stop-opacity=".35"/>
+      <stop offset=".99" stop-color="#2484b5" stop-opacity=".35"/>
+      <stop offset="1" stop-color="#2384b5" stop-opacity=".35"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="439.25" y1="185.03" x2="576.25" y2="185.03" gradientTransform="translate(0 -70)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0070c0"/>
+      <stop offset=".52" stop-color="#ff0" stop-opacity=".31"/>
+      <stop offset="1" stop-color="#c00000" stop-opacity=".58"/>
+    </linearGradient>
+  </defs>
+  <g class="st11">
+    <g>
+      <rect class="st5" x="27.25" y="80.03" width="412" height="70"/>
+      <rect class="st2" x="27.25" y="80.03" width="138" height="70"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st10" transform="translate(57.57 107.53)"><tspan x="0" y="0">Gamma</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st10" transform="translate(73.82 136.53)"><tspan x="0" y="0">Rays</tspan></text>
+        </g>
+      </g>
+      <rect class="st2" x="165.25" y="80.03" width="137" height="70"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st10" transform="translate(208.26 121.53)"><tspan x="0" y="0">X-</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st10" transform="translate(228.09 121.53)"><tspan x="0" y="0">ray</tspan></text>
+        </g>
+      </g>
+      <rect class="st2" x="302.25" y="80.03" width="137" height="70"/>
+      <g class="st7">
+        <text class="st10" transform="translate(355.76 121.53)"><tspan x="0" y="0">UV</tspan></text>
+      </g>
+      <rect class="st4" x="439.25" y="80.03" width="137" height="70"/>
+      <g class="st7">
+        <text class="st10" transform="translate(475.39 121.53)"><tspan x="0" y="0">Visible</tspan></text>
+      </g>
+      <rect class="st0" x="576.25" y="80.03" width="138" height="70"/>
+      <g class="st7">
+        <text class="st10" transform="translate(605.75 121.53)"><tspan x="0" y="0">Infrared</tspan></text>
+      </g>
+      <path class="st3" d="M302.08,150.03l-205.83,74.94"/>
+      <path class="st3" d="M439.25,150.03l205.83,74.94"/>
+      <rect class="st1" x="80.25" y="224.03" width="194" height="70"/>
+      <g class="st7">
+        <text class="st10" transform="translate(120.17 266.53)"><tspan x="0" y="0">Vacuum UV</tspan></text>
+      </g>
+      <rect class="st1" x="274.25" y="224.03" width="158" height="70"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st10" transform="translate(328.33 266.53)"><tspan x="0" y="0">UV-</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st10" transform="translate(364.67 266.53)"><tspan x="0" y="0">C</tspan></text>
+        </g>
+      </g>
+      <rect class="st1" x="432.25" y="224.03" width="69" height="70"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st10" transform="translate(441.82 266.53)"><tspan x="0" y="0">UV-</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st10" transform="translate(478.15 266.53)"><tspan x="0" y="0">B</tspan></text>
+        </g>
+      </g>
+      <rect class="st1" x="501.25" y="224.03" width="162" height="70"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st10" transform="translate(557.01 266.53)"><tspan x="0" y="0">UV-</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st10" transform="translate(593.34 266.53)"><tspan x="0" y="0">A</tspan></text>
+        </g>
+      </g>
+      <path class="st3" d="M80.25,294.03v41.26"/>
+      <path class="st3" d="M274.25,294.03v41.26"/>
+      <path class="st3" d="M663.25,294.03v41.26"/>
+      <path class="st3" d="M469.25,294.03v48.71"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st9" transform="translate(36.81 360.53)"><tspan x="0" y="0">100 nm</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st9" transform="translate(231.38 362.53)"><tspan x="0" y="0">200 nm</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st9" transform="translate(425.94 363.53)"><tspan x="0" y="0">300 nm</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st9" transform="translate(619.12 366.53)"><tspan x="0" y="0">400 nm</tspan></text>
+        </g>
+      </g>
+      <path class="st3" d="M432.25,294.03v26.67"/>
+      <path class="st3" d="M501.25,295.03v26.67"/>
+      <g class="st7">
+        <g class="st7">
+          <text class="st8" transform="translate(399.67 340.53)"><tspan x="0" y="0">280 nm</tspan></text>
+        </g>
+        <g class="st7">
+          <text class="st8" transform="translate(484.56 341.53)"><tspan x="0" y="0">315nm</tspan></text>
+        </g>
+      </g>
+      <path class="st3" d="M390.25,295.03v11.99"/>
+      <g class="st7">
+        <text class="st8" transform="translate(362.52 321.53)"><tspan x="0" y="0">254nm</tspan></text>
+      </g>
+      <path class="st3" d="M439.25,39.03v41.26"/>
+      <g class="st7">
+        <text class="st9" transform="translate(409.95 26.53)"><tspan x="0" y="0">400 nm</tspan></text>
+      </g>
+      <path class="st3" d="M576.25,37.03v41.26"/>
+      <g class="st7">
+        <text class="st9" transform="translate(547.16 26.53)"><tspan x="0" y="0">750 nm</tspan></text>
+      </g>
+      <path class="st3" d="M302.25,37.03v41.26"/>
+      <g class="st7">
+        <text class="st9" transform="translate(272.73 26.53)"><tspan x="0" y="0">100 nm</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
